@@ -16,4 +16,4 @@ server:
 spring:
   application:
     name:MICRO-SERVER-TEST
-  profiles: dev #测试环境
+  profiles: test #测试环境
